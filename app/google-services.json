@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195290233085",
+    "firebase_url": "https://space-intern-task-default-rtdb.firebaseio.com",
+    "project_id": "space-intern-task",
+    "storage_bucket": "space-intern-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195290233085:android:1e97d8f2b1201d98052694",
+        "android_client_info": {
+          "package_name": "com.example.spaceinterntask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195290233085-mpe10v5nsqn8g6gk7423vabqf4lv8ec4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spaceinterntask",
+            "certificate_hash": "587692fb8a2b14d76b6bc31ecc9ce60d823a0af1"
+          }
+        },
+        {
+          "client_id": "195290233085-ehjbv9lfjbeqs56ld23ljtaort5nu46g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVtNqBxdShgKzKguQmtIPAmyJl9PaARM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195290233085-ehjbv9lfjbeqs56ld23ljtaort5nu46g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
