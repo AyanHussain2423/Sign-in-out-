@@ -1,4 +1,4 @@
-# Welcome to QuickLogin - Your Premier Destination for Seamless Sign-In Experiences
+# Welcome to QuickLogin - For Seamless Sign-In Experiences
 
 ![lohin:signup app](https://github.com/AyanHussain2423/Sign-in-out-/assets/107791248/58c59074-4042-43af-9114-75abcc5eb9b8)
 
